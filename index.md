@@ -1,0 +1,5 @@
+---
+layout: home
+title: "Welcome to My Site"
+---
+This will be your homepage!
