@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **halderabhik77@gmail.com**
 
-- 📄 Know about my experiences [Click Here](https://secure.eu.internxt.com/d/sh/file/e93d3c53-4189-4ee1-afe9-c5becec93c46/88779192f751b318d56e84d4b65f883401fa5e92f75550adb4f4ccf5d39704da)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
