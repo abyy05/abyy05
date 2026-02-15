@@ -15,13 +15,12 @@
 <a href="https://twitter.com/@AbhikHalde25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhikhalder@25" height="30" width="40" /></a>
 
 <a href="https://peerlist.io/halderabhik77" target="blank">
-  <img align="center" 
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/peerlist.svg" 
-       alt="halderabhik77" 
-       height="30" 
-       width="40" />
+  <img align="center"
+       src="https://cdn.simpleicons.org/peerlist/22C55E"
+       alt="Peerlist"
+       height="30"
+       width="30" />
 </a>
-
 
 </p>
 
