@@ -10,7 +10,6 @@
 <table><tr>
 <td><a href="https://twitter.com/@AbhikHalde25" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/></a></td>
 <td><a href="https://www.linkedin.com/in/abhik-halder-1347852a8/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="30" width="40"/></a></td>
-</table>
 <td><a href="https://peerlist.io/halderabhik77" target="blank"><img src="https://thesvg.org/icons/peerlist/default.svg" alt="LinkedIn" height="30" width="40"/></a></td>
 </tr></table>
 
